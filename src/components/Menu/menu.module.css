@@ -1,5 +1,5 @@
-/* .container {
-  flex: 2;
+.container {
+  flex: 3;
   margin-top: 60px;
 }
 
@@ -17,4 +17,4 @@
   .container {
     display: none;
   }
-} */
+}

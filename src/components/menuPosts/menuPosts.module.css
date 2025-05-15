@@ -1,4 +1,4 @@
-/* .items {
+.items {
   margin-top: 35px;
   margin-bottom: 60px;
   display: flex;
@@ -64,7 +64,7 @@
 }
 
 .postTitle {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 500;
   color: var(--softTextColor);
 }
@@ -75,4 +75,4 @@
 
 .date {
   color: gray;
-} */
+}
