@@ -6,7 +6,7 @@ import Image from 'next/image'
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>
-        <b className={styles.bold}>Hi! I am Zacky Raechan,</b> The software engineer.
+        <b className={styles.bold}>There will be some headings,</b> and this one too.
       </h1>
 
       <div className={styles.post}>
